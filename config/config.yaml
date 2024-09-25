@@ -1,0 +1,6 @@
+server:
+  port: 8899
+db:
+  path: "iot-go.db"
+log:
+  level: INFO
